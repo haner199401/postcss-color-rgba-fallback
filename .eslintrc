@@ -10,7 +10,6 @@ rules:
   indent: [2, 2] # 2 spaces indentation
   max-len: [2, 120, 4]
   quotes: [2, "double"]
-  semi: [2, "never"]
   no-multiple-empty-lines: [2, {"max": 1}]
 
   brace-style: [2, "stroustrup"]
